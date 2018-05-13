@@ -1,0 +1,25 @@
+.tiles{margin-top: 70px;}
+body{     background-color: rgb(238, 238, 238);}
+.banner{  margin-top: 100px;
+          padding-top: 100px;}
+.media{margin-left: 6%;}
+.message-features{margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+nav{margin-bottom: 30px;}
+.active{background-color: #448afc;}
+.indented{margin-left:2em;}
+.learn{color: #0048d8;}
+nav:hover {background-color: #448afc;}
+.card{margin-top: 50px;}
+.marginTop{margin-top: 50px;}
+.cardText{margin-left: 5%;}
+.footer{   position: static;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:#f2f2f2;
+   color: rgb(29, 29, 29);
+   text-align: center;}
