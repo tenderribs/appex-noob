@@ -2,7 +2,7 @@
 <html>
     <head>
  <?php 
- require_once(__DIR__.'/metaData.php');   
+ require_once(__DIR__.'/metadata.php');   
  ?>
     </head>
     <body>
