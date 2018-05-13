@@ -5,6 +5,7 @@
         <title>AppEx</title>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.0/css/bulma.min.css">
         <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+        <script src="js/app.js"></script>
         <link rel="apple-touch-icon" sizes="57x57" href="images/favicon/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="images/favicon/apple-icon-60x60.png">
         <link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-icon-72x72.png">

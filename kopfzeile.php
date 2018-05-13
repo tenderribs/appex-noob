@@ -4,14 +4,14 @@
         <img src="images\logo.gif" alt="Applied Experience" width="75" height="32">
         <h3><strong>Applied</strong> Experience</h3>
     </a>
-    <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+    <div class="navbar-burger burger"  onclick="activeNavBar()" data-target="mainNavBar">
       <span></span>
       <span></span>
       <span></span>
     </div>
   </div>
 
-  <div id="navbarExampleTransparentExample" class="navbar-menu">
+  <div id="mainNavBar" class="navbar-menu">
     <div class="navbar-start">
         <!-- <a class="navbar-item" href="index.php">
             Home
