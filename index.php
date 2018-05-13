@@ -7,7 +7,7 @@
       <?php
             //navbar
           require_once('header.php');
-          $page = $_GET["page"];
+          $page = isset($_GET["page"])?$_GET["page"]:'';
             //page content
           if ($page == '') {
             require_once('pages/home.html');

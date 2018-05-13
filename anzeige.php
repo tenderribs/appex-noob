@@ -7,7 +7,7 @@
       <?php
             //navbar
           require_once('kopfzeile.php');
-          $page = $_GET["page"];
+          $page = isset($_GET["page"])?$_GET["page"]:'';
             //page content
           if ($page == '') {
             require_once('pages/zuhause.html');
