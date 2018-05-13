@@ -1,8 +1,8 @@
-<div class="footer">
+<div class="Footer">
   <div class="container">
     <div class="content has-text-centered">
-      <p>	Copyright© 2011 Applied Experience, Inc. All Rights Reserved.<br>
-        Implemented by <a href="markmarolf.com">Mark Marolf</a>. 
+      <p>	Copyright© 2018 Applied Experience, GmbH. All Rights Reserved.<br>
+        Implemented by <a href="https://markmarolf.com" target="blank">Mark Marolf</a>. 
       </p>
     </div>
   </div>
