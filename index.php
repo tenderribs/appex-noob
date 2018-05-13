@@ -9,6 +9,7 @@
           require_once('header.php');
           $page = isset($_GET["page"])?$_GET["page"]:'';
             //page content
+        echo '<div class="section">';
           if ($page == '') {
             require_once('pages/home.html');
           }
@@ -18,6 +19,7 @@
            else if ($page == 'blog') {
             require_once('pages/blog.html');
           }
+          echo '</div>';
       ?>
       <?php require_once('footer.php');   ?>
     </body>
